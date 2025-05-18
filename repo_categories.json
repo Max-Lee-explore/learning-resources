@@ -20,7 +20,9 @@
     "openai/openai-cookbook",
     "microsoft/ai-agents-for-beginners"
   ],
-  "Web Development": [],
+  "Web Development": [
+    
+  ],
   "Personal Projects": [
     "Max-Lee-explore/whisper-subtitler-transcriber",
     "Max-Lee-explore/agentic-ai-translation-company"
