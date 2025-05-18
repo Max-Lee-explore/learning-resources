@@ -3,34 +3,27 @@
     "Max-Lee-explore/whisper-subtitler-transcriber",
     "Max-Lee-explore/agentic-ai-translation-company"
   ],
-
   "NLP": [
     "PaddlePaddle/PaddleNLP",
     "hcd233/fine-tuning-Bert-for-sentiment-analysis",
     "Cyberbolt/Cemotion"
   ],
-
   "Automation with AI": [
     "n8n-io/n8n",
     "andrewyng/translation-agent"
   ],
-
   "Learning Resources": [
     "microsoft/AI-For-Beginners",
     "openai/openai-cookbook",
     "microsoft/ai-agents-for-beginners"
   ],
-
   "RAG": [
     "mayooear/ai-pdf-chatbot-langchain",
     "Byaidu/PDFMathTranslate"
   ],
-
   "Audiovisual": [
     "KwaiVGI/LivePortrait"
   ],
-  
   "Web Development": [],
-  
   "Other": []
 }
