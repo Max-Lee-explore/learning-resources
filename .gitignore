@@ -1,1 +1,20 @@
- 
+ # Ignore Python virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Generated files
+repos.md
+repo_categories.json
