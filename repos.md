@@ -8,6 +8,15 @@ Generate accurate AI-powered subtitles and transcriptions from YouTube, Vimeo, a
 ### [Max-Lee-explore/agentic-ai-translation-company](https://github.com/Max-Lee-explore/agentic-ai-translation-company)
 From Manager to Proofreader: An agentic AI translation system built on collaboration, role-based expertise, and full-stack delivery.
 
+### [Max-Lee-explore/MythTrans-llama31-8B](https://github.com/Max-Lee-explore/MythTrans-llama31-8B)
+A fine-tuned LLaMA 3.1 8B model that specializes in translating English descriptions of mythical beasts into Classical Chinese.
+
+### [Max-Lee-explore/learning-resources](https://github.com/Max-Lee-explore/learning-resources)
+A curated collection of repositories, notes, and code from my learning journey.
+
+### [Max-Lee-explore/whisper-subtitler-transcriber-googlecolab-version](https://github.com/Max-Lee-explore/whisper-subtitler-transcriber-googlecolab-version)
+Google Colab notebook for AI-powered video transcription and subtitle generation using OpenAI's Whisper, with YouTube URL support and interactive interface.
+
 ## NLP
 
 ### [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)
